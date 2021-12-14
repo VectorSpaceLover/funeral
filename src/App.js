@@ -1,3 +1,4 @@
+import React from 'react';
 import Routers from './router'
 import {HonorProvider} from "./contexts/honor";
 import {CommentProvider} from "./contexts/comment";
